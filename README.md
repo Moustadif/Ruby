@@ -207,4 +207,6 @@ if file \
 	puts content\
 else\
  puts "error to open #{file} file  "	\
-end\
+end
+References:
+** https://pine.fm/LearnToProgram **
