@@ -208,5 +208,6 @@ if file \
 else\
  puts "error to open #{file} file  "	\
 end
-References:
-** https://pine.fm/LearnToProgram **
+\
+References: \
+ https://pine.fm/LearnToProgram \
